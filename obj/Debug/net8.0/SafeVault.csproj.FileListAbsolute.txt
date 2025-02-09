@@ -1,0 +1,7 @@
+/home/wateronion/Desktop/csharp/SafeVault/obj/Debug/net8.0/SafeVault.csproj.AssemblyReference.cache
+/home/wateronion/Desktop/csharp/SafeVault/obj/Debug/net8.0/SafeVault.GeneratedMSBuildEditorConfig.editorconfig
+/home/wateronion/Desktop/csharp/SafeVault/obj/Debug/net8.0/SafeVault.AssemblyInfoInputs.cache
+/home/wateronion/Desktop/csharp/SafeVault/obj/Debug/net8.0/SafeVault.AssemblyInfo.cs
+/home/wateronion/Desktop/csharp/SafeVault/obj/Debug/net8.0/SafeVault.csproj.CoreCompileInputs.cache
+/home/wateronion/Desktop/csharp/SafeVault/obj/Debug/net8.0/SafeVault.MvcApplicationPartsAssemblyInfo.cs
+/home/wateronion/Desktop/csharp/SafeVault/obj/Debug/net8.0/SafeVault.MvcApplicationPartsAssemblyInfo.cache
